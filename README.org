@@ -1,0 +1,10 @@
+* path-parse
+
+Parse the PATH environment variable portably
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/path-parse.git   |
+| commit  | 86183f3  |
+| systems | path-parse |
+|---------+-------------------------------------------|
+
